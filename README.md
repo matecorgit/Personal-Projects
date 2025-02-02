@@ -1,5 +1,5 @@
 # título
-Primer repo creado en Github
+Data Cleaning Proyects
 
 ## descripción
-Este es un repo para prácticar
+Repositorio con los proyectos de Data Cleaning en Pandas-Python y en MySQL
