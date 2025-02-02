@@ -1,5 +1,5 @@
-# título
+# Título
 Data Cleaning Proyects
 
-## descripción
+## Descripción
 Repositorio con los proyectos de Data Cleaning en Pandas-Python y en MySQL
